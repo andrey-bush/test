@@ -1,0 +1,10 @@
+{
+    "api_port": "8383",
+    "3xui_host": "localhost",
+    "3xui_port": "2053",
+    "3xui_user": "admin",
+    "3xui_pass": "admin",
+    "3xui_api_base_url": "/panel/api/inbounds",
+    "3xui_main_inbound_id": 1,
+    "3xui_flow": "skdkjksdg"
+}
