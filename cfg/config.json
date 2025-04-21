@@ -1,4 +1,12 @@
 {
+    "is_debug": true,
+    "is_main_server": true,
+    "db_dsn": "postgres://truth_vpn:123456@localhost:5432/truth_vpn?sslmode=disable",
+    "try_period_days": 7,
+    "subscribe_host": "example.com",
+    "subscribe_port": "8443",
+    "subscribe_cert_pem_path": "",
+    "subscribe_key_pem_path": "",
     "main_api_port": "8338",
     "api_port": "8383",
     "3xui_host": "localhost",
